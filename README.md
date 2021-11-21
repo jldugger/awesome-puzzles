@@ -1,4 +1,4 @@
-# awesome-puzzles 
+# awesome-puzzles
 
 [![CI](https://github.com/jldugger/awesome-puzzles/actions/workflows/main.yml/badge.svg)](https://github.com/jldugger/awesome-puzzles/actions/workflows/main.yml)
 
