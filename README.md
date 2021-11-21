@@ -1,3 +1,5 @@
+[![CI](https://github.com/jldugger/awesome-puzzles/actions/workflows/main.yml/badge.svg)](https://github.com/jldugger/awesome-puzzles/actions/workflows/main.yml)
+
 # awesome-puzzles
 
 A curated list of awesome puzzle resources
