@@ -23,7 +23,7 @@ SGT Puzzles
 
 ## Youtubers & Podcasts
 
-[Cracking the Cryptic](https://www.youtube.com/channel/UCC-UOdK8-mIjxBQm_ot1T-Q)
+[Cracking the Cryptic](https://www.youtube.com/channel/UCC-UOdK8-mIjxBQm_ot1T-Q)  
 [NPR Sunday Puzzle](https://www.npr.org/series/4473090/sunday-puzzle)
 
 ## Puzzle blogs
